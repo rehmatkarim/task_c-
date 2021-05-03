@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TTG/fkwiaDaU1LDxBteawNfO84JihRrXYaAnyqRdvDc2dz1J85OhpvdxtdB3M6xaTFXT5rGIkUqCJ50TO4rbw==",
+  "success": true,
+  "projectFilePath": "D:\\REHMAT\\assignment\\assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dev\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

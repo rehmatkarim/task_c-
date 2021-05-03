@@ -1,0 +1,113 @@
+{
+    "GlobalCompany": {
+    "USA": {
+    "EDUCATION": {
+    "CollegeNumber" : "5",
+    "HighChoolLevel" : "Senior",
+    "University" : "total",
+    "FREE": "No"
+    },
+    "HEALTH": {
+    "Doctor": "23445",
+    "Nurse": "01.2.33",
+    "Medicine" : [],
+    "ER": "Immediate",
+    "StateCity": ["Montana", "Seattle","San Francisco"],
+    "Open": "False",
+    },
+    "SPORT": {
+    "Baskball": ["NBA1","NBA2"],
+    "Soccer": "1234",
+    "Baseball": "Enabled",
+    }
+    },
+    "EUROPE": {
+    "COLLEGE": {
+    "BOSS": {
+    "LYON": "XDE4.2SG.3333.451.BB"
+    },
+    "NANTE": {
+    "GOALS": {
+    "SHOT": "NOT WIN",
+    "GOALS": "9"
+    },
+    "CARLA": {
+    "ity": "ag43",
+    "police": "45.56.0.15",
+    "shoes": "5"
+    },
+    "Minister": {
+    "Taxi": "red",
+    "BUS": "CITY",
+    "Number": "76553",
+    "location": "South",
+    "temp": "59"
+    }
+    },
+    "Adults": {
+    "age": "aduklt age nto always 1s-09-56",
+    "cargo": "5.446.321.5"
+    },
+    "BoatTable": {
+    "ChefBoss": {
+    "Prenon": "AirBus, Boeing 648 Los -Angels",
+    "coming": "2.51.1530"
+    }
+    },
+    "AppleNike": {
+    "NameBrande": "Power dulce GabadaeManagemeny",
+    "Bertopower": "34.5.77.245"
+    },
+    "Velo": {
+    "fleuevriver": "Paris Caty",
+    "SOCOC": "130.43.4.34"
+    }
+    }
+    },
+    "ASIA": {
+    "FOOD": ["SUCHI", "BANANA", "COCO"],
+    "ECONOMY": {
+    "MANGOE": {
+    "SWEAT": {
+    "OK": 14,
+    "GOOD": "",
+    "NICE": "TABLEdinner"
+    },
+    "Night" : "",
+    "DAILYnet" : "cives$/Start/Grape",
+    "callyPPOR" : "ZO654",
+    "LANENITRE": "True"
+    },
+    "CODE": {
+    "SPEED": {
+    "TRUST": 34,
+    "HONESTY": "",
+    "SONG": "COLLYCADEAUX"
+    },
+    "AVOCADO" : "",
+    "BEDROAD" : "NUMBER76",
+    "COME-ICI": "True"
+    },
+    "TRAINallez": {
+    "tout ca": {
+    "caca": 14,
+    "VIN": "OIL-SIP"
+    },
+    "PAPA" : "",
+    "CALYFORMA" : "ZFR03",
+    "MAISON-GOR": "True"
+    },
+    "PLANE": {
+    "VEHICLE": {
+    "PIROLI": 134,
+    "SONGAMEN": "",
+    "OBATY": "BLGIUM"
+    },
+    "MAMAELLE" : "",
+    "MARCHE" : "Z04",
+    "FULL": "True"
+    }
+    }
+    }
+    }
+    }
